@@ -1,0 +1,5 @@
+*.log
+*.log.*
+config.py
+capture.jpg
+reference.png
