@@ -1,5 +1,5 @@
 # AutoCommercial
- A project to automatically launch Twitch commercial
+ A project to automatically launch Twitch commercial by comparing 1 image to a reference commercial/break asset
  
  ## How to
 * Install python https://www.python.org/downloads/ WITH the option "ADD PYTHON TO PATH"
