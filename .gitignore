@@ -3,3 +3,4 @@
 config.py
 capture.jpg
 reference.png
+__pycache__
