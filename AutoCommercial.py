@@ -5,7 +5,7 @@ import cv2
 import os
 import logging
 from logging.handlers import RotatingFileHandler
- from config import * 
+from config import * 
  
 clear = lambda: os.system('cls')
 
